@@ -24,3 +24,10 @@ hs_err_pid*
 replay_pid*
 
 .idea
+
+.gitattributes
+mvnw
+mvnw.cmd
+maven-wrapper.properties
+learning.iml
+application.properties
